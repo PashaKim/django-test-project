@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
-local_settings.py
+test_project/local_settings.py
